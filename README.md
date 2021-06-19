@@ -48,19 +48,40 @@
 ### Publications
 
 <table>
-    <td colspan=2 style="text-align: left;"><b><a href="https://www.inflearn.com/course/c-opencv#">C# OpenCV 컴퓨터비전 입문 강좌</a></b></td>
+    <td colspan=1 style="text-align: left;"><b><a href="https://www.inflearn.com/course/c-opencv#">C# OpenCV 컴퓨터비전 입문 강좌</a></b></td>
+	<td><b>강좌</b></td>
 	<tr>
 	    <td>데이터 사이언스 / 인공지능</td>
         <td>2018.08</td>
 	</tr>
-    <td colspan=2 style="text-align: left;"><b><a href="http://www.yes24.com/Product/Goods/77186885">C#과 파이썬을 활용한 OpenCV 4 프로그래밍</a></b></td>
+    <td colspan=1 style="text-align: left;"><b><a href="http://www.yes24.com/Product/Goods/77186885">C#과 파이썬을 활용한 OpenCV 4 프로그래밍</a></b></td>
+	<td><b>서적</b></td>
 	<tr>
 	    <td>컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지</td>
         <td>2019.08</td>
 	</tr>
-    <td colspan=2 style="text-align: left;"><b><a href="">시설 평면도에 포함된 기호 분석 장치 및 방법</a></b></td>
+    <td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091781">시설 평면도에 포함된 기호 분석 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>Apparatus And Method For Analyzing Mark In Facility Floor Plan</td>
         <td>2020.07</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091772">공간 이미지 분석 기반 배색 추천 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR RECOMMENDING COLOR COMBINATION BASED ON ANALYSIS OF SPACE IMAGE</td>
+        <td>2021.04</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091775">이미지 데이터베이스 분석 기반 상품 추천 장치</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR RECOMMENDING GOODS BASED ON ANALYSIS OF IMAGE DATABASE</td>
+        <td>2021.04</td>
+	</tr>
+	    <td colspan=1 style="text-align: left;"><b><a href="http://www.yes24.com/Product/Goods/99029275">C#과 파이썬을 활용한 OpenCV 4 프로그래밍 (개정판)</a></b></td>
+	<td><b>서적</b></td>
+	<tr>
+	    <td>컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지</td>
+        <td>2021.04</td>
 	</tr>
 </table>
