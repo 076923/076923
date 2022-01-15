@@ -59,37 +59,37 @@
         <td>2019.08</td>
 	</tr>
     <td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091781">시설 평면도에 포함된 기호 분석 장치 및 방법</a></b></td>
-	<td><b>특허 등록</b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
         <td>2021.01</td>
 	</tr>
 	    <td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091759">데이터 증강 기반 사물 분석 모델 학습 장치 및 방법</a></b></td>
-	<td><b>특허 등록</b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING OBJECT ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
         <td>2021.01</td>
 	</tr>
 	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091766">데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법</a></b></td>
-	<td><b>특허 등록</b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING STYLE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
         <td>2021.01</td>
 	</tr>
 	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091753">데이터 증강 기반 공간 분석 모델 학습 장치 및 방법</a></b></td>
-	<td><b>특허 등록</b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING SPACE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
         <td>2021.01</td>
 	</tr>
 	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091775">이미지 데이터베이스 분석 기반 상품 추천 장치</a></b></td>
-	<td><b>특허 등록</b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR RECOMMENDING GOODS BASED ON ANALYSIS OF IMAGE DATABASE</td>
         <td>2021.03</td>
 	</tr>
 	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091772">공간 이미지 분석 기반 배색 추천 장치 및 방법</a></b></td>
-	<td><b>특허 등록</b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR RECOMMENDING COLOR COMBINATION BASED ON ANALYSIS OF SPACE IMAGE</td>
         <td>2021.04</td>
