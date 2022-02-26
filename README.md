@@ -46,97 +46,103 @@
 ### Publications
 
 <table>
-    <td colspan=1 style="text-align: left;"><b><a href="https://www.inflearn.com/course/c-opencv#">C# OpenCV 컴퓨터비전 입문 강좌</a></b></td>
+    <td colspan=1 style="text-align: left;"><b><a href="https://www.inflearn.com/course/c-opencv#">◾ C# OpenCV 컴퓨터비전 입문 강좌</a></b></td>
 	<td><b>강좌</b></td>
 	<tr>
 	    <td>데이터 사이언스 / 인공지능</td>
         <td>2018.08</td>
 	</tr>
-    <td colspan=1 style="text-align: left;"><b><a href="http://www.yes24.com/Product/Goods/77186885">C#과 파이썬을 활용한 OpenCV 4 프로그래밍</a></b></td>
+    <td colspan=1 style="text-align: left;"><b><a href="http://www.yes24.com/Product/Goods/77186885">◾ C#과 파이썬을 활용한 OpenCV 4 프로그래밍</a></b></td>
 	<td><b>서적</b></td>
 	<tr>
 	    <td>컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지</td>
         <td>2019.08</td>
 	</tr>
-    <td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091781">시설 평면도에 포함된 기호 분석 장치 및 방법 | 10-2020-0091781</a></b></td>
+    <td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091781">◾ 시설 평면도에 포함된 기호 분석 장치 및 방법 | 10-2020-0091781</a></b></td>
 	<td><b>특허 등록</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
         <td>2021.01</td>
 	</tr>
-	    <td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091759">데이터 증강 기반 사물 분석 모델 학습 장치 및 방법 | 10-2020-0091759</a></b></td>
+	    <td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091759">◾ 데이터 증강 기반 사물 분석 모델 학습 장치 및 방법 | 10-2020-0091759</a></b></td>
 	<td><b>특허 등록</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING OBJECT ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
         <td>2021.01</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091766">데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법 | 10-2020-0091766</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091766">◾ 데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법 | 10-2020-0091766</a></b></td>
 	<td><b>특허 등록</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING STYLE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
         <td>2021.01</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091753">데이터 증강 기반 공간 분석 모델 학습 장치 및 방법 | 10-2020-0091753</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091753">◾ 데이터 증강 기반 공간 분석 모델 학습 장치 및 방법 | 10-2020-0091753</a></b></td>
 	<td><b>특허 등록</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING SPACE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
         <td>2021.01</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091775">이미지 데이터베이스 분석 기반 상품 추천 장치 | 10-2020-0091775</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091775">◾ 이미지 데이터베이스 분석 기반 상품 추천 장치 | 10-2020-0091775</a></b></td>
 	<td><b>특허 등록</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR RECOMMENDING GOODS BASED ON ANALYSIS OF IMAGE DATABASE</td>
         <td>2021.03</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091772">공간 이미지 분석 기반 배색 추천 장치 및 방법 | 10-2020-0091772</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091772">◾ 공간 이미지 분석 기반 배색 추천 장치 및 방법 | 10-2020-0091772</a></b></td>
 	<td><b>특허 등록</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR RECOMMENDING COLOR COMBINATION BASED ON ANALYSIS OF SPACE IMAGE</td>
         <td>2021.03</td>
 	</tr>
-	    <td colspan=1 style="text-align: left;"><b><a href="http://www.yes24.com/Product/Goods/99029275">C#과 파이썬을 활용한 OpenCV 4 프로그래밍 (개정판)</a></b></td>
-	<td><b>서적</b></td>
+	    <td colspan=1 style="text-align: left;"><b><a href="http://www.yes24.com/Product/Goods/99029275">◾ C#과 파이썬을 활용한 OpenCV 4 프로그래밍 (개정판)</a></b></td>
+		<td><b>서적</b></td>
 	<tr>
 	    <td>컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지</td>
         <td>2021.04</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210031984">공간 이미지 분석 기반 배색 추천 장치 및 방법 | 10-2021-0031984</a></b></td>
+		<td colspan=1 style="text-align: left;"><b><a href="https://marketplace.visualstudio.com/items?itemName=076923.python-image-preview">◾ Python 이미지 미리보기</a></b></td>
+		<td><b>확장</b></b></td>
+	<tr>
+	    <td>Visual Studio Code : Python Image Preview</td>
+        <td>2021.06</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210031984">◾ 공간 이미지 분석 기반 배색 추천 장치 및 방법 | 10-2021-0031984</a></b></td>
 	<td><b>특허 출원</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR RECOMMENDING COLOR COMBINATION BASED ON ANALYSIS OF SPACE IMAGE</td>
         <td>2022.02</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007440">데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법 | 10-2021-0007440</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007440">◾ 데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법 | 10-2021-0007440</a></b></td>
 	<td><b>특허 출원</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING STYLE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
         <td>2022.02</td>
 	<tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007497">시설 평면도에 포함된 기호 분석 장치 및 방법 | 10-2021-0007497</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007497">◾ 시설 평면도에 포함된 기호 분석 장치 및 방법 | 10-2021-0007497</a></b></td>
 	<td><b>특허 출원</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
         <td>2022.02</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007411">데이터 증강 기반 사물 분석 모델 학습 장치 및 방법 | 10-2021-0007411</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007411">◾ 데이터 증강 기반 사물 분석 모델 학습 장치 및 방법 | 10-2021-0007411</a></b></td>
 	<td><b>특허 출원</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING OBJECT ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
         <td>2022.02</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007496">시설 평면도에 포함된 기호 분석 장치 및 방법 | 10-2021-0007496</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007496">◾ 시설 평면도에 포함된 기호 분석 장치 및 방법 | 10-2021-0007496</a></b></td>
 	<td><b>특허 출원</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
         <td>2022.02</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007406">데이터 증강 기반 공간 분석 모델 학습 장치 및 방법 | 10-2021-0007406</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007406">◾ 데이터 증강 기반 공간 분석 모델 학습 장치 및 방법 | 10-2021-0007406</a></b></td>
 	<td><b>특허 출원</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING SPACE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
         <td>2022.02</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007468">이미지 데이터베이스 분석 기반 상품 추천 장치 및 방법 | 10-2021-0007468</a></b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007468">◾ 이미지 데이터베이스 분석 기반 상품 추천 장치 및 방법 | 10-2021-0007468</a></b></td>
 	<td><b>특허 출원</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR RECOMMENDING GOODS BASED ON ANALYSIS OF IMAGE DATABASE</td>
