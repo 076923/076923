@@ -58,42 +58,6 @@
 	    <td>컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지</td>
         <td>2019.08</td>
 	</tr>
-    <td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091781">◾ 시설 평면도에 포함된 기호 분석 장치 및 방법 | 10-2020-0091781</a></b></td>
-	<td><b>특허 등록</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
-        <td>2021.01</td>
-	</tr>
-	    <td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091759">◾ 데이터 증강 기반 사물 분석 모델 학습 장치 및 방법 | 10-2020-0091759</a></b></td>
-	<td><b>특허 등록</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR DEVELOPING OBJECT ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
-        <td>2021.01</td>
-	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091766">◾ 데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법 | 10-2020-0091766</a></b></td>
-	<td><b>특허 등록</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR DEVELOPING STYLE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
-        <td>2021.01</td>
-	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091753">◾ 데이터 증강 기반 공간 분석 모델 학습 장치 및 방법 | 10-2020-0091753</a></b></td>
-	<td><b>특허 등록</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR DEVELOPING SPACE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
-        <td>2021.01</td>
-	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091775">◾ 이미지 데이터베이스 분석 기반 상품 추천 장치 | 10-2020-0091775</a></b></td>
-	<td><b>특허 등록</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR RECOMMENDING GOODS BASED ON ANALYSIS OF IMAGE DATABASE</td>
-        <td>2021.03</td>
-	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091772">◾ 공간 이미지 분석 기반 배색 추천 장치 및 방법 | 10-2020-0091772</a></b></td>
-	<td><b>특허 등록</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR RECOMMENDING COLOR COMBINATION BASED ON ANALYSIS OF SPACE IMAGE</td>
-        <td>2021.03</td>
-	</tr>
 	    <td colspan=1 style="text-align: left;"><b><a href="http://www.yes24.com/Product/Goods/99029275">◾ C#과 파이썬을 활용한 OpenCV 4 프로그래밍 (개정판)</a></b></td>
 		<td><b>서적</b></td>
 	<tr>
@@ -106,88 +70,148 @@
 	    <td>Visual Studio Code : Python Image Preview</td>
         <td>2021.06</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210031984">◾ 공간 이미지 분석 기반 배색 추천 장치 및 방법 | 10-2021-0031984</a></b></td>
-	<td><b>특허 등록</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR RECOMMENDING COLOR COMBINATION BASED ON ANALYSIS OF SPACE IMAGE</td>
-        <td>2022.06</td>
-	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007440">◾ 데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법 | 10-2021-0007440</a></b></td>
-	<td><b>특허 공개</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR DEVELOPING STYLE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
-        <td>2022.02</td>
-	<tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007497">◾ 시설 평면도에 포함된 기호 분석 장치 및 방법 | 10-2021-0007497</a></b></td>
-	<td><b>특허 공개</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
-        <td>2022.02</td>
-	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007411">◾ 데이터 증강 기반 사물 분석 모델 학습 장치 및 방법 | 10-2021-0007411</a></b></td>
-	<td><b>특허 공개</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR DEVELOPING OBJECT ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
-        <td>2022.02</td>
-	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007496">◾ 시설 평면도에 포함된 기호 분석 장치 및 방법 | 10-2021-0007496</a></b></td>
-	<td><b>특허 공개</b></td>
-	<tr>
-	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
-        <td>2022.02</td>
-	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007406">◾ 데이터 증강 기반 공간 분석 모델 학습 장치 및 방법 | 10-2021-0007406</a></b></td>
-	<td><b>특허 공개</b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091753">◾ 10-2020-0091753 | 데이터 증강 기반 공간 분석 모델 학습 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR DEVELOPING SPACE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
-        <td>2022.02</td>
+        <td>2020.07</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007468">◾ 이미지 데이터베이스 분석 기반 상품 추천 장치 및 방법 | 10-2021-0007468</a></b></td>
-	<td><b>특허 공개</b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091759">◾ 10-2020-0091759 | 데이터 증강 기반 사물 분석 모델 학습 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR DEVELOPING OBJECT ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
+        <td>2020.07</td>
+	<tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091766">◾ 10-2020-0091766 | 데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR DEVELOPING STYLE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
+        <td>2020.07</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091772">◾ 10-2020-0091772 | 공간 이미지 분석 기반 배색 추천 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR RECOMMENDING COLOR COMBINATION BASED ON ANALYSIS OF SPACE IMAGE</td>
+        <td>2020.07</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091775">◾ 10-2020-0091775 | 이미지 데이터베이스 분석 기반 상품 추천 장치</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR RECOMMENDING GOODS BASED ON ANALYSIS OF IMAGE DATABASE</td>
-        <td>2022.02</td>
+        <td>2020.07</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200174309">◾ 인테리어 서비스의 빅데이터 기반의 기 배치 사물 분석을 통한 사물 특성 추천 장치 및 방법 | 10-2020-0174313</a></b></td>
-	<td><b>특허 공개</b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200091781">◾ 10-2020-0091781 | 시설 평면도에 포함된 기호 분석 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
-	    <td>APPARATUS AND METHOD FOR RECOMMENDING CHARACTERISTICS OF OBJECT THROUGH ANALYSIS OF PRE-ARRANGED OBJECT BASED ON BIG DATA OF INTERIOR SERVICE</td>
-        <td>2020.12</td>
+	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
+        <td>2020.07</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200159917">◾ 인테리어 서비스의 빅데이터 기반의 사용자 그룹군 분석을 통한 사물 추천 장치 및 방법 | 10-2020-0174309</a></b></td>
-	<td><b>특허 공개</b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200159917">◾ 10-2020-0159917 | 인테리어 서비스의 빅데이터로부터 구축된 간선 연결 데이터 구조 기반의 인접 간선 사물 추천 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR RECOMMENDING OBJECT ON ADJACENT TRUNK LINE BASED ON DATA STRUCTURE OF TRUNK LINE CONNECTION GENERATED FROM BIG DATA OF INTERIOR SERVICE</td>
+        <td>2020.11</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200159926">◾ 10-2020-0159926 | 인테리어 서비스의 빅데이터로부터 구축된 간선 연결 데이터 구조 기반의 회귀 간선 사물 추천 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR RECOMMENDING OBJECT ON ADJACENT TRUNK LINE BASED ON DATA STRUCTURE OF TRUNK LINE CONNECTION GENERATED FROM BIG DATA OF INTERIOR SERVICE</td>
+        <td>2020.11</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200174309">◾ 10-2020-0174309 | 인테리어 서비스의 빅데이터 기반의 사용자 그룹군 분석을 통한 사물 추천 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>APPARATUS AND METHOD FOR RECOMMENDING CHARACTERISTICS OF OBJECT THROUGH ANALYSIS OF USER GROUP BASED ON BIG DATA OF INTERIOR SERVICE</td>
         <td>2020.12</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007468">◾ 인테리어 서비스의 빅데이터로부터 구축된 간선 연결 데이터 구조 기반의 인접 간선 사물 추천 장치 및 방법 | 10-2020-0159917</a></b></td>
-	<td><b>특허 공개</b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200174313">◾ 10-2020-0174313 | 인테리어 서비스의 빅데이터 기반의 기 배치 사물 분석을 통한 사물 특성 추천 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
-	    <td>APPARATUS AND METHOD FOR RECOMMENDING OBJECT ON ADJACENT TRUNK LINE BASED ON DATA STRUCTURE OF TRUNK LINE CONNECTION GENERATED FROM BIG DATA OF INTERIOR SERVICE</td>
-        <td>2020.11</td>
+	    <td>APPARATUS AND METHOD FOR RECOMMENDING CHARACTERISTICS OF OBJECT THROUGH ANALYSIS OF PRE-ARRANGED OBJECT BASED ON BIG DATA OF INTERIOR SERVICE</td>
+        <td>2020.12</td>
 	</tr>
-	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020200159926">◾ 인테리어 서비스의 빅데이터로부터 구축된 간선 연결 데이터 구조 기반의 회귀 간선 사물 추천 장치 및 방법 | 10-2020-0159926</a></b></td>
-	<td><b>특허 공개</b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210003731">◾ 10-2021-0003731 | SNS 텍스트 기반의 사용자의 인테리어 스타일 분석 모델 제공 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
-	    <td>APPARATUS AND METHOD FOR RECOMMENDING OBJECT ON ADJACENT TRUNK LINE BASED ON DATA STRUCTURE OF TRUNK LINE CONNECTION GENERATED FROM BIG DATA OF INTERIOR SERVICE</td>
-        <td>2020.11</td>
+	    <td>APPARATUS AND METHOD FOR PROVIDING MODEL FOR ANALYSIS OF USER'S INTERIOR STYLE BASED ON TEXT DATA OF SOCIAL NETWORK SERVICE</td>
+        <td>2021.01</td>
 	</tr>
-		<td colspan=1 style="text-align: left;"><b>◾ 이미지 데이터베이스 분석에 기초가 된 제품 권고 장치와 방법 | (WO)2022019670</b></td>
-	<td><b>WO/A1</b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210003732">◾ 10-2021-0003732 | SNS 텍스트 기반의 사용자의 인테리어 스타일 분석 모델 제공 서버, 사용자 단말 및 방법</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
-	    <td>[WO] PRODUCT RECOMMENDATION DEVICE AND METHOD BASED ON IMAGE DATABASE ANALYSIS</td>
-        <td>2022.01</td>
+	    <td>SERVER, USER TERMINAL AND METHOD FOR PROVIDING MODEL FOR ANALYSIS OF USER'S INTERIOR STYLE BASED ON SNS TEXT</td>
+        <td>2021.01</td>
 	</tr>
-		<td colspan=1 style="text-align: left;"><b>◾ 공간 이미지 분석 기반 컬러 방식 추천 장치와 방법 | (WO)2022019654</b></td>
-	<td><b>WO/A1</b></td>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007406">◾ 10-2021-0007406 | 데이터 증강 기반 공간 분석 모델 학습 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR DEVELOPING SPACE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
+        <td>2021.01</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007411">◾ 10-2021-0007411 | 데이터 증강 기반 사물 분석 모델 학습 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR DEVELOPING OBJECT ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
+        <td>2021.01</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007440">◾ 10-2021-0007440 | 데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR DEVELOPING STYLE ANALYSIS MODEL BASED ON DATA AUGMENTATION</td>
+        <td>2021.01</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007468">◾ 10-2021-0007468 | 이미지 데이터베이스 분석 기반 상품 추천 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR RECOMMENDING GOODS BASED ON ANALYSIS OF IMAGE DATABASE</td>
+        <td>2021.01</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007496">◾ 10-2021-0007496 | 시설 평면도에 포함된 기호 분석 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
+        <td>2021.01</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210007497">◾ 10-2021-0007497 | 시설 평면도에 포함된 기호 분석 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR ANALYZING MARK IN FACILITY FLOOR PLAN</td>
+        <td>2021.01</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210031984">◾ 10-2021-0031984 | 공간 이미지 분석 기반 배색 추천 장치 및 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS AND METHOD FOR RECOMMENDING COLOR COMBINATION BASED ON ANALYSIS OF SPACE IMAGE</td>
+        <td>2021.03</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019654&recNum=1&tab=PCTDocuments&maxRec=1">◾ (WO)2022019654 | 공간 이미지 분석 기반 컬러 방식 추천 장치와 방법</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>[WO] SPATIAL IMAGE ANALYSIS-BASED COLOR SCHEME RECOMMENDATION APPARATUS AND METHOD</td>
-        <td>2022.01</td>
+        <td>2021.07</td>
 	</tr>
-		<td colspan=1 style="text-align: left;"><b>◾ 설비 평면도에서 포함한 심볼 분석 장치와 방법 | (WO)2022019675</b></td>
-	<td><b>WO/A1</b></td>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019670&recNum=1&tab=PCTDocuments&maxRec=1">◾ (WO)2022019670 | 이미지 데이터베이스 분석에 기초가 된 제품 권고 장치와 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>[WO] PRODUCT RECOMMENDATION DEVICE AND METHOD BASED ON IMAGE DATABASE ANALYSIS</td>
+        <td>2021.07</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019675&recNum=1&tab=PCTDocuments&maxRec=1">◾ (WO)2022019675 | 설비 평면도에서 포함한 심볼 분석 장치와 방법</a></b></td>
+	<td><b>특허</b></td>
 	<tr>
 	    <td>[WO] SYMBOL ANALYSIS DEVICE AND METHOD INCLUDED IN FACILITY FLOOR PLAN</td>
-        <td>2022.01</td>
+        <td>2021.07</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022131736&recNum=1&tab=PCTDocuments&maxRec=1"><b>◾ (WO)2022131736 | 내부 설계 서비스의 빅데이터에 기초가 된 현존한 물체 분석을 통해 물체 피쳐를 권고하기 위한 방법과 장치</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>[WO] METHOD AND DEVICE FOR RECOMMENDING OBJECT FEATURE VIA EXISTING OBJECT ANALYSIS BASED ON BIG DATA OF INTERIOR DESIGN SERVICE </td>
+        <td>2021.12</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022131734&recNum=1&tab=PCTDocuments&maxRec=1">◾ (WO)2022131734 | 목적 권고 장치와 큰 데이터 기반의 사용자 그룹 분석을 통한 내부 설계 서비스의 방법</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>[WO] OBJECT RECOMMENDATION DEVICE AND METHOD OF INTERIOR DESIGN SERVICE THROUGH BIG DATA-BASED USER GROUP ANALYSIS</td>
+        <td>2021.12</td>
 	</tr>
 </table>
