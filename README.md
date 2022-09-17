@@ -38,7 +38,7 @@
 
 ### Social
 
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=www.linkedin.com/in/s076923)](www.linkedin.com/in/s076923) <a href="mailto:s076923@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s076923@gmail.com"/></a> <a href="https://076923.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://076923.github.io"/></a> 
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/s076923)](https://www.linkedin.com/in/s076923) <a href="mailto:s076923@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s076923@gmail.com"/></a> <a href="https://076923.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://076923.github.io"/></a> 
 
 <br>
 <br>
