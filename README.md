@@ -184,6 +184,34 @@
 	    <td>APPARATUS AND METHOD FOR RECOMMENDING COLOR COMBINATION BASED ON ANALYSIS OF SPACE IMAGE</td>
         <td>2021.03</td>
 	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210062144">◾ 10-2021-0062144 | 이미지 블록 기반의 블록 연결 패턴 생성 장치, 방법, 컴퓨터 판독 가능한 기록 매체 및 컴퓨터 프로그램
+</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS, METHOD, COMPUTER-READABLE STORAGE MEDIUM AND COMPUTER PROGRAM FOR GENERATING PATTERN OF CONNECTING EDGE PART BASED ON IMAGE BLOCK</td>
+        <td>2021.05</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210062190">◾ 10-2021-0062190 | 이미지 블록 기반 스퀘어 패턴 생성 장치, 방법, 컴퓨터 판독 가능한 기록 매체 및 컴퓨터 프로그램
+</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS, METHOD, COMPUTER-READABLE STORAGE MEDIUM AND COMPUTER PROGRAM FOR GENERATING PATTERN OF SQUARE BASED ON IMAGE BLOCK</td>
+        <td>2021.05</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210072754">◾ 10-2021-0072754 | 이미지 블록 기반 회전 연결 패턴 생성 장치, 방법, 컴퓨터 판독 가능한 기록 매체 및 컴퓨터 프로그램
+</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS, METHOD, COMPUTER-READABLE STORAGE MEDIUM AND COMPUTER PROGRAM FOR GENERATING PATTERN OF CONNECTION AND ROTATION BASED ON IMAGE BLOCK</td>
+        <td>2021.06</td>
+	</tr>
+	<td colspan=1 style="text-align: left;"><b><a href="https://doi.org/10.8080/1020210072757">◾ 10-2021-0072757 | 이미지 블록 기반 도형 패턴 생성 장치, 방법, 컴퓨터 판독 가능한 기록 매체 및 컴퓨터 프로그램
+</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>APPARATUS, METHOD, COMPUTER-READABLE STORAGE MEDIUM AND COMPUTER PROGRAM FOR GENERATING PATTERN OF POLYGON BASED ON IMAGE BLOCK</td>
+        <td>2021.06</td>
+	</tr>
 		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019654&recNum=1&tab=PCTDocuments&maxRec=1">◾ (WO)2022019654 | 공간 이미지 분석 기반 컬러 방식 추천 장치와 방법</a></b></td>
 	<td><b>특허</b></td>
 	<tr>
