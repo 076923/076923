@@ -212,34 +212,88 @@
 	    <td>APPARATUS, METHOD, COMPUTER-READABLE STORAGE MEDIUM AND COMPUTER PROGRAM FOR GENERATING PATTERN OF POLYGON BASED ON IMAGE BLOCK</td>
         <td>2021.06</td>
 	</tr>
-		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019654&recNum=1&tab=PCTDocuments&maxRec=1">◾ (WO)2022019654 | 공간 이미지 분석 기반 컬러 방식 추천 장치와 방법</a></b></td>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=KR351836939">◾ 1020220012797 | APPARATUS AND METHOD FOR RECOMMENDING COLOR MATCHING BASED ON SPATIAL IMAGE ANALYSIS</a></b></td>
 	<td><b>특허</b></td>
 	<tr>
-	    <td>[WO] SPATIAL IMAGE ANALYSIS-BASED COLOR SCHEME RECOMMENDATION APPARATUS AND METHOD</td>
-        <td>2021.07</td>
+	    <td>공간 이미지 분석 기반 배색 추천 장치 및 방법</td>
+        <td>2022.06</td>
 	</tr>
-		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019670&recNum=1&tab=PCTDocuments&maxRec=1">◾ (WO)2022019670 | 이미지 데이터베이스 분석에 기초가 된 제품 권고 장치와 방법</a></b></td>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=KR351836915">◾ 1020220012784 | DEVICE AND METHOD FOR DEVELOPING SPACE ANALYSIS MODEL BASED ON DATA AUGMENTATION</a></b></td>
 	<td><b>특허</b></td>
 	<tr>
-	    <td>[WO] PRODUCT RECOMMENDATION DEVICE AND METHOD BASED ON IMAGE DATABASE ANALYSIS</td>
-        <td>2021.07</td>
+	    <td>데이터 증강 기반 공간 분석 모델 학습 장치 및 방법</td>
+        <td>2022.08</td>
 	</tr>
-		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019675&recNum=1&tab=PCTDocuments&maxRec=1">◾ (WO)2022019675 | 설비 평면도에서 포함한 심볼 분석 장치와 방법</a></b></td>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=KR351836917">◾ 1020220012786 | APPARATUS AND METHOD FOR TRAINING STYLE ANALYSIS MODEL BASED ON DATA AUGMENTATION</a></b></td>
 	<td><b>특허</b></td>
 	<tr>
-	    <td>[WO] SYMBOL ANALYSIS DEVICE AND METHOD INCLUDED IN FACILITY FLOOR PLAN</td>
-        <td>2021.07</td>
+	    <td>데이터 증강 기반 스타일 분석 모델 학습 장치 및 방법</td>
+        <td>2022.08</td>
 	</tr>
-		<td colspan=1 style="text-align: left;"><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022131736&recNum=1&tab=PCTDocuments&maxRec=1"><b>◾ (WO)2022131736 | 내부 설계 서비스의 빅데이터에 기초가 된 현존한 물체 분석을 통해 물체 피쳐를 권고하기 위한 방법과 장치</a></b></td>
+		<td colspan=1 style="text-align: left;"><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022131736&recNum=1&tab=PCTDocuments&maxRec=1"><b>◾ 1020220012789 | APPARATUS AND METHOD FOR ANALYZING SYMBOLS INCLUDED IN FACILITY FLOOR PLAN</a></b></td>
 	<td><b>특허</b></td>
 	<tr>
-	    <td>[WO] METHOD AND DEVICE FOR RECOMMENDING OBJECT FEATURE VIA EXISTING OBJECT ANALYSIS BASED ON BIG DATA OF INTERIOR DESIGN SERVICE </td>
-        <td>2021.12</td>
+	    <td>시설 평면도에 포함된 기호 분석 장치 및 방법</td>
+        <td>2022.02</td>
 	</tr>
-		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022131734&recNum=1&tab=PCTDocuments&maxRec=1">◾ (WO)2022131734 | 목적 권고 장치와 큰 데이터 기반의 사용자 그룹 분석을 통한 내부 설계 서비스의 방법</a></b></td>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=KR351836918">◾ 1020220012787 | DEVICE AND METHOD FOR PRODUCT RECOMMENDATION BASED ON IMAGE DATABASE ANALYSIS</a></b></td>
 	<td><b>특허</b></td>
 	<tr>
-	    <td>[WO] OBJECT RECOMMENDATION DEVICE AND METHOD OF INTERIOR DESIGN SERVICE THROUGH BIG DATA-BASED USER GROUP ANALYSIS</td>
-        <td>2021.12</td>
+	    <td>이미지 데이터베이스 분석 기반 상품 추천 장치 및 방법</td>
+        <td>2022.02</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=KR351836919">◾ 1020220012788 | APPARATUS AND METHOD FOR ANALYZING SYMBOLS INCLUDED IN FACILITY FLOOR PLAN</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>시설 평면도에 포함된 기호 분석 장치 및 방법</td>
+        <td>2022.02</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=KR351836916">◾ 1020220012785 | APPARATUS AND METHOD FOR TRAINING OBJECT ANALYSIS MODEL BASED ON DATA AUGMENTATION</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>데이터 증강 기반 사물 분석 모델 학습 장치 및 방법</td>
+        <td>2022.08</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019670">◾ WO/2022/019670 | PRODUCT RECOMMENDATION DEVICE AND METHOD BASED ON IMAGE DATABASE ANALYSIS</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>이미지 데이터베이스 분석 기반 상품 추천 장치 및 방법</td>
+        <td>2022.07</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019654">◾ WO/2022/019654 | SPATIAL IMAGE ANALYSIS-BASED COLOR SCHEME RECOMMENDATION APPARATUS AND METHOD</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>공간 이미지 분석 기반 배색 추천 장치 및 방법</td>
+        <td>2022.07</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022131736">◾ WO/2022/131736 | METHOD AND DEVICE FOR RECOMMENDING OBJECT FEATURE VIA EXISTING OBJECT ANALYSIS BASED ON BIG DATA OF INTERIOR DESIGN SERVICE</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>인테리어 서비스의 빅데이터 기반의 기 배치 사물 분석을 통한 사물 특성 추천 장치 및 방법</td>
+        <td>2022.06</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022131734">◾ WO/2022/131734 | OBJECT RECOMMENDATION DEVICE AND METHOD OF INTERIOR DESIGN SERVICE THROUGH BIG DATA-BASED USER GROUP ANALYSIS</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>인테리어 서비스의 빅데이터 기반의 사용자 그룹군 분석을 통한 사물 추천 장치 및 방법</td>
+        <td>2022.06</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022019675">◾ WO/2022/019675 | SYMBOL ANALYSIS DEVICE AND METHOD INCLUDED IN FACILITY FLOOR PLAN</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>인테리어 서비스의 빅데이터 기반의 사용자 그룹군 분석을 통한 사물 추천 장치 및 방법</td>
+        <td>2022.01</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022154376">◾ WO/2022/154376 | APPARATUS AND METHOD FOR PROVIDING USER’S INTERIOR STYLE ANALYSIS MODEL ON BASIS OF SNS TEXT</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>SNS 텍스트 기반의 사용자의 인테리어 스타일 분석 모델 제공 장치 및 방법</td>
+        <td>2022.01</td>
+	</tr>
+		<td colspan=1 style="text-align: left;"><b><a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022154378">◾ WO/2022/154378 | SERVER, USER TERMINAL, AND METHOD FOR PROVIDING USER INTERIOR DECORATION STYLE ANALYSIS MODEL ON BASIS OF SNS TEXT</a></b></td>
+	<td><b>특허</b></td>
+	<tr>
+	    <td>SNS 텍스트 기반의 사용자의 인테리어 스타일 분석 모델 제공 서버, 사용자 단말 및 방법</td>
+        <td>2022.07</td>
 	</tr>
 </table>
