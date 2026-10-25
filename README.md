@@ -39,6 +39,7 @@
 
 | 출간 | 구분 | 제목 | eBook | 수상 |
 |:--:|:--:|:--|:--:|:--|
+| 2026.10 | 서적 | [팀을 위한 클로드 코드 완벽 가이드](https://wikibook.co.kr/claude-code-teams/) |  |  |
 | 2025.08 | 서적 | [데이터ㆍAI 시스템 아키텍트를 위한 실무 가이드](https://wikibook.co.kr/data-ai-system/) | [eBook](https://wikibook.co.kr/data-ai-system-ebook/) (2025.10) | 2026 대한민국학술원 우수학술도서 |
 | 2024.09 | 서적 | [딥러닝 프로젝트를 위한 허깅페이스 실전 가이드](https://wikibook.co.kr/hugging-face/) | [eBook](https://wikibook.co.kr/hugging-face-ebook/) (2025.02) |  |
 | 2024.05 | 서적 | [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 (개정2판)](https://wikibook.co.kr/opencv4-rev2/) | [eBook](https://wikibook.co.kr/opencv4-rev2-ebook/) (2024.10) |  |
